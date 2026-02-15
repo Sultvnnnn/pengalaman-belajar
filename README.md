@@ -1,7 +1,7 @@
 # 🚀 My Coding Camp Journey @ Coding Camp 2026 by DBS Foundation
 
 **Name:** Sultan Abdul Fatah   
-**Period:** Feb 8, 2026 - Feb 15, 2026
+**Period:** Feb 7, 2026 - Feb 15, 2026
 
 ---
 
@@ -9,35 +9,45 @@
 
 | Class Name | Status | Completion Date |
 | :--- | :---: | :---: |
-| **Memulai Dasar Pemrograman untuk Menjadi Pengembang Software** | ✅ Done | Feb 13, 2026 |
-| **Pengenalan ke Logika Pemrograman (Programming Logic 101)** | ✅ Done | Feb 14, 2026 |
+| **Memulai Dasar Pemrograman untuk Menjadi Pengembang Software** | ✅ Done | Feb 12, 2026 |
+| **Pengenalan ke Logika Pemrograman (Programming Logic 101)** | ✅ Done | Feb 13, 2026 |
 | **Belajar Dasar Git dengan GitHub** | 🔄 On Going | *Current* |
 
 ---
 
 ## 📅 Daily Log & Milestones
 
-### **Minggu, 15 Februari 2026 (Day 8)**
-**Topic: Version Control System (Git & GitHub)**
+### **Minggu, 15 Februari 2026 (Day 9)**
+**Topic: Deep Dive Git Workflow & Branching**
+**Fokus:** Manajemen Cabang (Branching) & Penyelesaian Konflik
+
+Hari ini saya mempelajari aspek kolaborasi dari Git yang sangat penting:
+* ✅ **Repository Management:** Membuat repo, file Markdown, dan rilis versi.
+* ✅ **Branching Strategy:** Membuat dan berpindah *branch* untuk isolasi fitur.
+* ✅ **Conflict Resolution:** Simulasi dan solusi saat terjadi bentrok kode (*merge conflict*).
+> *Refleksi: Skill ini adalah kunci untuk bekerja dalam tim proyek skala besar seperti SkyBite nanti.*
+
+### **Sabtu, 14 Februari 2026 (Day 8)**
+**Topic: Introduction to Version Control (Git & GitHub)**
 - [x] Mempelajari pengantar Git & GitHub.
 - [x] Latihan membuat akun & eksplorasi profil GitHub.
 - [x] Memahami *GitHub Dashboard* & manajemen notifikasi.
 - [x] Mengerjakan kuis dasar Git.
 > *Refleksi: Memahami pentingnya menyimpan riwayat kode dan kolaborasi di cloud.*
 
-### **Sabtu, 14 Februari 2026 (Day 7)**
-**Topic: Programming Logic**
+### **Jumat, 13 Februari 2026 (Day 7)**
+**Topic: Programming Logic Completion**
 - [x] Menuntaskan kelas **Programming Logic 101**.
 - [x] Mempelajari Algoritma & Struktur Data dasar.
 - [x] Memahami Gerbang Logika (*Logic Gates*) dan Alur Kontrol (*Flow Control*).
 
-### **Jumat, 13 Februari 2026 (Day 6)**
+### **Kamis, 12 Februari 2026 (Day 6)**
 **Topic: Software Requirements Specification (SRS)**
 - [x] **GRADUATED:** Kelas Dasar Pemrograman. 🎓
 - [x] Deep dive ke dokumen SKPL/SRS (*Software Requirements Specification*).
 - [x] Studi kasus manajemen risiko aplikasi (Third-party dependencies).
 
-### **8 - 12 Februari 2026 (Day 1 - 5)**
+### **7 - 11 Februari 2026 (Day 1 - 5)**
 **Topic: Software Engineering Fundamentals**
 - [x] *Kick-off* Coding Camp & Pre-test.
 - [x] Analisis kebutuhan teknis & pemecahan masalah (*Computational Thinking*).
