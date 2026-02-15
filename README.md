@@ -19,12 +19,9 @@
 
 ### **Minggu, 15 Februari 2026 (Day 9)**
 **Topic: Deep Dive Git Workflow & Branching**
-**Fokus:** Manajemen Cabang (Branching) & Penyelesaian Konflik
-
-Hari ini saya mempelajari aspek kolaborasi dari Git yang sangat penting:
-* ✅ **Repository Management:** Membuat repo, file Markdown, dan rilis versi.
-* ✅ **Branching Strategy:** Membuat dan berpindah *branch* untuk isolasi fitur.
-* ✅ **Conflict Resolution:** Simulasi dan solusi saat terjadi bentrok kode (*merge conflict*).
+- [x] **Repository Management:** Membuat repo, file Markdown, dan rilis versi.
+- [x] **Branching Strategy:** Membuat dan berpindah *branch* untuk isolasi fitur.
+- [x] **Conflict Resolution:** Simulasi dan solusi saat terjadi bentrok kode (*merge conflict*).
 > *Refleksi: Skill ini adalah kunci untuk bekerja dalam tim proyek skala besar seperti SkyBite nanti.*
 
 ### **Sabtu, 14 Februari 2026 (Day 8)**
