@@ -1,4 +1,4 @@
-# 🚀 My Coding Camp Journey @ Coding Camp 2026
+# 🚀 My Coding Camp Journey @ Coding Camp 2026 by DBS Foundation
 
 **Name:** Sultan Abdul Fatah   
 **Period:** Feb 8, 2026 - Feb 15, 2026
