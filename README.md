@@ -1,7 +1,7 @@
 # 🚀 My Coding Camp Journey @ Coding Camp 2026 by DBS Foundation
 
 **Name:** Sultan Abdul Fatah   
-**Period:** Feb 7, 2026 - Feb 15, 2026
+**Period:** Feb 7, 2026 - Feb 18, 2026
 
 ---
 
@@ -11,11 +11,38 @@
 | :--- | :---: | :---: |
 | **Memulai Dasar Pemrograman untuk Menjadi Pengembang Software** | ✅ Done | Feb 12, 2026 |
 | **Pengenalan ke Logika Pemrograman (Programming Logic 101)** | ✅ Done | Feb 13, 2026 |
-| **Belajar Dasar Git dengan GitHub** | 🔄 On Going | *Current* |
+| **Belajar Dasar Git dengan GitHub** | ✅ Done | Feb 16, 2026 |
+| **Pengenalan Data pada Pemrograman (The Power of Data)** | ✅ Done | Feb 17, 2026 |
+| **Belajar Dasar Data Science** | ✅ Done | Feb 18, 2026 |
+| **Belajar Dasar Visualisasi Data** | 🔜 Next | - |
 
 ---
 
 ## 📅 Daily Log & Milestones
+
+### **Rabu, 18 Februari 2026 (Day 12)**
+**Topic: Fundamental Data Science & Machine Learning**
+- [x] **Data Science Core:** Memahami dampak DS, kaitan dengan matematika, dan metodologi analisis.
+- [x] **Tools & Technology:** Eksplorasi alat pengolahan, visualisasi, dan bahasa pemrograman utama (Python/R).
+- [x] **Machine Learning:** Mempelajari tipe ML (Supervised/Unsupervised) dan algoritma populer.
+- [x] **Career & Portfolio:** Strategi membangun portofolio dan *branding* sebagai Data Scientist.
+- [x] **FINAL EXAM:** Lulus Ujian Akhir Kelas Dasar Data Science. 🎓
+> *Refleksi: "Officially graduated from Data Science Fundamentals! Siap mengimplementasikan teori ini ke dalam kode Python yang sebenarnya."*
+
+### **Selasa, 17 Februari 2026 (Day 11)**
+**Topic: The Power of Data**
+- [x] **Data Fundamentals:** Berkenalan dengan definisi, jenis, dan karakteristik data.
+- [x] **Data-Driven Decision Making:** Memahami bagaimana data memvalidasi keputusan bisnis.
+- [x] **Big Data Evolution:** Mempelajari sejarah, evolusi, dan implementasi *Big Data in Action*.
+- [x] **Quiz:** The Power of Data.
+> *Refleksi: Transisi dari Software Engineer ke Data Scientist dimulai! Data adalah bahan bakar utama untuk pengambilan keputusan cerdas.*
+
+### **Senin, 16 Februari 2026 (Day 10)**
+**Topic: Git Study Case & Implementation**
+- [x] **Project Setup:** Membuat repository "Pengalaman Belajar" (Studi Kasus).
+- [x] **Markdown Practice:** Mengimplementasikan format Markdown untuk dokumentasi yang rapi.
+- [x] **Git Workflow Practice:** Simulasi *commit*, *push*, dan manajemen riwayat perubahan.
+> *Refleksi: Hari ini full praktik! Menerapkan teori Git ke dalam proyek nyata membuat pemahaman teknis menjadi skill praktis.*
 
 ### **Minggu, 15 Februari 2026 (Day 9)**
 **Topic: Deep Dive Git Workflow & Branching**
