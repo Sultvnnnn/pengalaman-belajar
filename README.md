@@ -20,6 +20,14 @@
 
 ## 📅 Daily Log & Milestones
 
+### **Kamis, 19 Februari 2026 (Day 13)**
+**Topic: Spreadsheet Fundamentals & Data Manipulation**
+- [x] **Pengenalan Spreadsheet:** Memahami konsep dasar dan navigasi antarmuka *Google Sheets*.
+- [x] **Eksplorasi Menu Bar:** Membedah fungsi krusial pada *Title Bar, File, Edit, View, Insert, Format, Data, Tools,* dan *Add-ons*.
+- [x] **Manajemen Baris & Kolom:** Tata cara memanipulasi struktur sel, baris, dan kolom secara efisien untuk kerapian data.
+- [x] **Sortir Data:** Teknik mengurutkan data (*Sorting*) untuk mempermudah proses analisis dan pencarian informasi dasar.
+> *Refleksi: Spreadsheet adalah senjata pertama seorang analis data. Menguasai navigasi dasar dan fitur penyortiran adalah langkah awal yang krusial sebelum masuk ke formula dan visualisasi kompleks.*
+
 ### **Rabu, 18 Februari 2026 (Day 12)**
 **Topic: Fundamental Data Science & Machine Learning**
 - [x] **Data Science Core:** Memahami dampak DS, kaitan dengan matematika, dan metodologi analisis.
