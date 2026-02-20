@@ -14,7 +14,8 @@
 | **Belajar Dasar Git dengan GitHub** | ✅ Done | Feb 16, 2026 |
 | **Pengenalan Data pada Pemrograman (The Power of Data)** | ✅ Done | Feb 17, 2026 |
 | **Belajar Dasar Data Science** | ✅ Done | Feb 18, 2026 |
-| **Belajar Dasar Visualisasi Data** | 🔜 Next | - |
+| **Belajar Dasar Visualisasi Data** | ✅ Done | Feb 20, 2026 |
+| **Memulai Pemrograman dengan Python** | 🔜 Next | - |
 
 ---
 
