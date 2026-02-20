@@ -27,7 +27,7 @@
 - [x] **Pivot Table:** Implementasi dan tips merangkum dataset skala besar menggunakan Pivot Table.
 - [x] **Data Storytelling:** Mempelajari cara bercerita dengan data dan merancang visualisasi yang efektif.
 - [x] **Visual Perception:** Membedah Prinsip Gestalt, *Preattentive Attributes*, dan konsep desain untuk menghilangkan elemen rumit (*clutter*).
-- [x] **FINAL EXAM:** Lulus Ujian Akhir Kelas Dasar Visualisasi Data. 🎓 
+- [x] **FINAL EXAM:** Lulus Ujian Akhir Kelas Dasar Visualisasi Data. 🎓
   🏆 [Sertifikat Kelulusan](https://www.dicoding.com/certificates/ERZRL42DQZYV)
 > *Refleksi: Angka tanpa cerita hanyalah deretan teks mati. Hari ini saya belajar bahwa visualisasi data adalah jembatan antara analisis teknis dan pemahaman manusia.*
 
@@ -46,6 +46,7 @@
 - [x] **Machine Learning:** Mempelajari tipe ML (Supervised/Unsupervised) dan algoritma populer.
 - [x] **Career & Portfolio:** Strategi membangun portofolio dan *branding* sebagai Data Scientist.
 - [x] **FINAL EXAM:** Lulus Ujian Akhir Kelas Dasar Data Science. 🎓
+  🏆 [Sertifikat Kelulusan](https://www.dicoding.com/certificates/98XW0KKV9XM3)
 > *Refleksi: "Officially graduated from Data Science Fundamentals! Siap mengimplementasikan teori ini ke dalam kode Python yang sebenarnya."*
 
 ### **Selasa, 17 Februari 2026 (Day 11)**
@@ -61,6 +62,8 @@
 - [x] **Project Setup:** Membuat repository "Pengalaman Belajar" (Studi Kasus).
 - [x] **Markdown Practice:** Mengimplementasikan format Markdown untuk dokumentasi yang rapi.
 - [x] **Git Workflow Practice:** Simulasi *commit*, *push*, dan manajemen riwayat perubahan.
+- [x] **GRADUATED:** Kelas Belajar Dasar Git dengan GitHub. 🎓
+  🏆 [Sertifikat Kelulusan](https://www.dicoding.com/certificates/N9ZONDYQRXG5)
 > *Refleksi: Hari ini full praktik! Menerapkan teori Git ke dalam proyek nyata membuat pemahaman teknis menjadi skill praktis.*
 
 ### **Minggu, 15 Februari 2026 (Day 9)**
@@ -80,15 +83,17 @@
 
 ### **Jumat, 13 Februari 2026 (Day 7)**
 **Topic: Programming Logic Completion**
-- [x] Menuntaskan kelas **Programming Logic 101**.
 - [x] Mempelajari Algoritma & Struktur Data dasar.
 - [x] Memahami Gerbang Logika (*Logic Gates*) dan Alur Kontrol (*Flow Control*).
+- [x] **GRADUATED:** Kelas Programming Logic 101. 🎓
+  🏆 [Sertifikat Kelulusan](https://www.dicoding.com/certificates/0LZ0YOLWNX65)
 
 ### **Kamis, 12 Februari 2026 (Day 6)**
 **Topic: Software Requirements Specification (SRS)**
-- [x] **GRADUATED:** Kelas Dasar Pemrograman. 🎓
 - [x] Deep dive ke dokumen SKPL/SRS (*Software Requirements Specification*).
 - [x] Studi kasus manajemen risiko aplikasi (Third-party dependencies).
+- [x] **GRADUATED:** Kelas Dasar Pemrograman. 🎓
+  🏆 [Sertifikat Kelulusan](https://www.dicoding.com/certificates/L4PQ9R7Y2PO1)
 
 ### **7 - 11 Februari 2026 (Day 1 - 5)**
 **Topic: Software Engineering Fundamentals**
