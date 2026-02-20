@@ -21,6 +21,16 @@
 
 ## 📅 Daily Log & Milestones
 
+### **Jumat, 20 Februari 2026 (Day 14)**
+**Topic: Data Visualization Mastery & Storytelling**
+- [x] **Advanced Spreadsheet:** Menguasai penyaringan data dan formula esensial (SUM, AVERAGE, MIN, MAX, IF, TRIM, REPLACE, UNIQUE).
+- [x] **Pivot Table:** Implementasi dan tips merangkum dataset skala besar menggunakan Pivot Table.
+- [x] **Data Storytelling:** Mempelajari cara bercerita dengan data dan merancang visualisasi yang efektif.
+- [x] **Visual Perception:** Membedah Prinsip Gestalt, *Preattentive Attributes*, dan konsep desain untuk menghilangkan elemen rumit (*clutter*).
+- [x] **FINAL EXAM:** Lulus Ujian Akhir Kelas Dasar Visualisasi Data. 🎓 
+  🏆 [Sertifikat Kelulusan](https://www.dicoding.com/certificates/ERZRL42DQZYV)
+> *Refleksi: Angka tanpa cerita hanyalah deretan teks mati. Hari ini saya belajar bahwa visualisasi data adalah jembatan antara analisis teknis dan pemahaman manusia.*
+
 ### **Kamis, 19 Februari 2026 (Day 13)**
 **Topic: Spreadsheet Fundamentals & Data Manipulation**
 - [x] **Pengenalan Spreadsheet:** Memahami konsep dasar dan navigasi antarmuka *Google Sheets*.
