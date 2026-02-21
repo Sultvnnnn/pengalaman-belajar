@@ -21,6 +21,14 @@
 
 ## 📅 Daily Log & Milestones
 
+### **Sabtu, 21 Februari 2026 (Day 15)**
+**Topic: Python Programming Fundamentals**
+- [x] **Pengenalan Python:** Mempelajari sejarah, filosofi, dan alasan Python menjadi standar industri untuk Data Science.
+- [x] **Dasar Sintaks:** Menguasai konsep Variabel, Tipe Data bawaan, dan berbagai jenis Ekspresi (Expressions).
+- [x] **Aritmatika & Operator:** Memahami cara kerja operasi aritmatika dan logika dasar dalam Python.
+- [x] **Struktur Data:** Eksplorasi mendalam dan praktik operasi pada *List*, *Set*, dan *Dictionary* untuk penyimpanan data yang efisien.
+> *Refleksi: Menulis kode Python pertama saya! Memahami List, Set, dan Dictionary adalah kunci utama sebelum masuk ke manipulasi data tabular yang lebih kompleks.*
+
 ### **Jumat, 20 Februari 2026 (Day 14)**
 **Topic: Data Visualization Mastery & Storytelling**
 - [x] **Advanced Spreadsheet:** Menguasai penyaringan data dan formula esensial (SUM, AVERAGE, MIN, MAX, IF, TRIM, REPLACE, UNIQUE).
