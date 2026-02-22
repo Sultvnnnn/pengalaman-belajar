@@ -21,6 +21,14 @@
 
 ## 📅 Daily Log & Milestones
 
+### **Minggu, 22 Februari 2026 (Day 16)**
+**Topic: Python Execution Flow (Sequential Action)**
+- [x] **Aksi Sekuensial:** Memahami alur eksekusi program Python yang berjalan baris demi baris.
+- [x] **Python Interpreter:** Menyelami cara kerja *interpreter* menerjemahkan kode menjadi instruksi mesin.
+- [x] **One-liner Mastery:** Latihan menulis kode yang efisien dan ringkas dalam satu baris.
+- [x] **Quiz:** Lulus Kuis Aksi Sekuensial.
+> *Refleksi: Hari Minggu yang santai tapi tetap produktif. Belajar aksi sekuensial dan one-liner menyadarkan saya bahwa kode yang baik bukan hanya yang jalan, tapi juga efisien.*
+
 ### **Sabtu, 21 Februari 2026 (Day 15)**
 **Topic: Python Programming Fundamentals**
 - [x] **Pengenalan Python:** Mempelajari sejarah, filosofi, dan alasan Python menjadi standar industri untuk Data Science.
