@@ -21,6 +21,14 @@
 
 ## 📅 Daily Log & Milestones
 
+### **Senin, 23 Februari 2026 (Day 17)**
+**Topic: Data Structures - Array Implementation & Processing**
+- [x] **Fundamental Array:** Memahami teori dasar struktur data array dan bagaimana elemen disimpan di dalam memori.
+- [x] **Implementasi Python:** Mempraktikkan pembuatan dan manipulasi array secara langsung menggunakan sintaks Python.
+- [x] **Pemrosesan Sekuensial:** Menguasai teknik iterasi dan pemrosesan elemen array secara berurutan dari indeks pertama hingga akhir.
+- [x] **Hands-on Coding:** Menyelesaikan latihan dan kuis algoritma berbasis array/list.
+> *Refleksi: Progres kecil yang konsisten lebih baik daripada berhenti sama sekali. Menguasai array adalah fondasi penting sebelum memanipulasi dataset skala besar.*
+
 ### **Minggu, 22 Februari 2026 (Day 16)**
 **Topic: Python Execution Flow (Sequential Action)**
 - [x] **Aksi Sekuensial:** Memahami alur eksekusi program Python yang berjalan baris demi baris.
