@@ -21,6 +21,14 @@
 
 ## 📅 Daily Log & Milestones
 
+### **Selasa, 24 Februari 2026 (Day 18)**
+**Topic: Matrix Implementation & Operations**
+- [x] **Fundamental Matriks:** Memahami konsep baris, kolom, dan dimensi matriks.
+- [x] **Implementasi Python:** Membuat matriks menggunakan *nested list* (list di dalam list).
+- [x] **Operasi Matriks:** Latihan melakukan penjumlahan, perkalian, dan manipulasi elemen matriks.
+- [x] **Quiz:** Lulus Kuis Matriks.
+> *Refleksi: Matriks adalah fondasi data tabular. Mengerti cara memanipulasi baris dan kolom secara manual adalah bekal penting sebelum pakai library canggih.*
+
 ### **Senin, 23 Februari 2026 (Day 17)**
 **Topic: Data Structures - Array Implementation & Processing**
 - [x] **Fundamental Array:** Memahami teori dasar struktur data array dan bagaimana elemen disimpan di dalam memori.
