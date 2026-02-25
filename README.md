@@ -1,7 +1,7 @@
 # 🚀 My Coding Camp Journey @ Coding Camp 2026 by DBS Foundation
 
 **Name:** Sultan Abdul Fatah   
-**Period:** Feb 7, 2026 - Feb 24, 2026
+**Period:** Feb 7, 2026 - Feb 25, 2026
 
 ---
 
@@ -20,6 +20,13 @@
 ---
 
 ## 📅 Daily Log & Milestones
+
+### **Rabu, 25 Februari 2026 (Day 19)**
+**Topic: Python Functions & Modularity**
+- [x] **Definisi Fungsi:** Membuat blok kode modular yang dapat dipanggil berulang kali (*reusable*).
+- [x] **Parameter vs Argumen:** Membedakan variabel penerima input (parameter) dengan nilai nyata yang dikirim (argumen).
+- [x] **Implementasi Fungsi:** Latihan membuat fungsi sederhana untuk memecah logika program yang kompleks.
+> *Refleksi: Fungsi adalah kunci efisiensi. Dengan fungsi, saya tidak perlu menulis kode yang sama berulang kali, cukup panggil satu baris saja.*
 
 ### **Selasa, 24 Februari 2026 (Day 18)**
 **Topic: Matrix Implementation & Operations**
