@@ -1,7 +1,7 @@
 # 🚀 My Coding Camp Journey @ Coding Camp 2026 by DBS Foundation
 
 **Name:** Sultan Abdul Fatah   
-**Period:** Feb 7, 2026 - Feb 25, 2026
+**Period:** Feb 7, 2026 - Feb 26, 2026
 
 ---
 
@@ -19,6 +19,14 @@
 ---
 
 ## 📅 Daily Log & Milestones
+
+### **Kamis, 26 Februari 2026 (Day 20)**
+**Topic: Subprograms (Functions & Procedures)**
+- [x] **Definisi Subprogram:** Memahami konsep pemecahan program besar menjadi modul-modul kecil agar kode lebih rapi dan *reusable*.
+- [x] **Fungsi vs Prosedur:** Membedakan subprogram yang mengembalikan nilai (*Function*) dan yang hanya menjalankan serangkaian perintah tanpa nilai kembalian (*Procedure*).
+- [x] **Hands-on Coding:** Menyelesaikan kuis *coding* fungsi untuk menguji logika modular di Python.
+- [x] **Quiz:** Lulus Kuis Subprogram.
+> *Refleksi: Memecah masalah kompleks menjadi subprogram kecil (fungsi dan prosedur) adalah seni dari menulis clean code. Konsistensi 1 hari 1 topik membuat fondasi ini semakin kuat.*
 
 ### **Rabu, 25 Februari 2026 (Day 19)**
 **Topic: Python Functions & Modularity**
