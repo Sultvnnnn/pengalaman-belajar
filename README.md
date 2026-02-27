@@ -1,7 +1,7 @@
 # 🚀 My Coding Camp Journey @ Coding Camp 2026 by DBS Foundation
 
 **Name:** Sultan Abdul Fatah   
-**Period:** Feb 7, 2026 - Feb 26, 2026
+**Period:** Feb 7, 2026 - Feb 27, 2026
 
 ---
 
@@ -19,6 +19,13 @@
 ---
 
 ## 📅 Daily Log & Milestones
+
+### **Jumat, 27 Februari 2026 (Day 21)**
+**Topic: Object-Oriented Programming (OOP) Basics**
+- [x] **Paradigma OOP:** Berkenalan dengan gaya penulisan kode berbasis objek yang modular dan terstruktur.
+- [x] **Class, Object, & Method:** Memahami cara membuat cetak biru program (*Class*), menginisialisasi wujud nyata (*Object*), dan mendefinisikan aksinya (*Method*).
+- [x] **Duck Typing:** Mempelajari fleksibilitas *dynamic typing* khas Python ("If it walks like a duck and quacks like a duck, it must be a duck").
+> *Refleksi: Menjaga konsistensi belajar di tengah kondisi fisik yang kurang fit. OOP mengubah pola pikir dari sekadar menulis instruksi menjadi merancang sebuah arsitektur sistem yang rapi.*
 
 ### **Kamis, 26 Februari 2026 (Day 20)**
 **Topic: Subprograms (Functions & Procedures)**
