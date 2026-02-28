@@ -1,7 +1,7 @@
 # 🚀 My Coding Camp Journey @ Coding Camp 2026 by DBS Foundation
 
 **Name:** Sultan Abdul Fatah   
-**Period:** Feb 7, 2026 - Feb 27, 2026
+**Period:** Feb 7, 2026 - Feb 28, 2026
 
 ---
 
@@ -19,6 +19,13 @@
 ---
 
 ## 📅 Daily Log & Milestones
+
+### **Sabtu, 28 Februari 2026 (Day 22)**
+**Topic: Object-Oriented Programming (Inheritance)**
+- [x] **Konsep Inheritance:** Memahami pewarisan sifat, atribut, dan perilaku dari *Parent Class* ke *Child Class*.
+- [x] **Code Reusability:** Mempraktikkan cara menghindari duplikasi kode dengan memanfaatkan rancangan *class* yang sudah ada.
+- [x] **Hierarki Objek:** Merancang struktur dan hubungan antar objek yang logis dan efisien dalam Python.
+> *Refleksi: Inheritance adalah inti dari efisiensi OOP. Mewarisi sifat class induk berarti menghemat ratusan baris kode dan membuat arsitektur program jauh lebih rapi.*
 
 ### **Jumat, 27 Februari 2026 (Day 21)**
 **Topic: Object-Oriented Programming (OOP) Basics**
