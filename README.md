@@ -1,7 +1,7 @@
 # 🚀 My Coding Camp Journey @ Coding Camp 2026 by DBS Foundation
 
 **Name:** Sultan Abdul Fatah   
-**Period:** Feb 7, 2026 - Feb 28, 2026
+**Period:** Feb 7, 2026 - Mar 4, 2026
 
 ---
 
@@ -19,6 +19,33 @@
 ---
 
 ## 📅 Daily Log & Milestones
+
+### **Rabu, 4 Maret 2026 (Day 26)**
+**Topic: Python Style Guide (PEP8)**
+- [x] **Clean Code Fundamentals:** Memahami pentingnya aturan penulisan kode (*Style Guide*) agar mudah dibaca oleh manusia, bukan hanya mesin.
+- [x] **PEP8 Convention:** Mempelajari standar industri Python untuk penamaan variabel, spasi, indentasi, dan struktur kode.
+- [x] **Code Checking:** Mempraktikkan cara mengecek dan memperbaiki baris kode agar sesuai dengan konvensi PEP8.
+> *Refleksi: Kode ditulis sekali, tapi dibaca berkali-kali. Menguasai PEP8 adalah bentuk empati kepada rekan satu tim dan diri saya sendiri di masa depan.*
+
+### **Selasa, 3 Maret 2026 (Day 25)**
+**Topic: Object-Oriented Programming (Final Exam)**
+- [x] **OOP Mastery:** Membuktikan pemahaman menyeluruh tentang paradigma pemrograman berorientasi objek.
+- [x] **Problem Solving:** Menyelesaikan studi kasus kompleks menggunakan *Class*, *Inheritance*, dan *Method*.
+- [x] **Exam Passed:** Lulus Ujian Coding: Object-oriented Programming. 🎓
+> *Refleksi: Akhirnya menaklukkan OOP! Lulus ujian ini bukan akhir, tapi bukti bahwa saya sudah siap merancang sistem yang scalable dan rapi menggunakan Python.*
+
+### **Senin, 2 Maret 2026 (Day 24)**
+**Topic: Object-Oriented Programming (Review)**
+- [x] **Review Materi:** Mengulas kembali seluruh konsep fundamental OOP pada Python.
+- [x] **Pemantapan Konsep:** Memastikan pemahaman yang solid terkait hubungan *Class*, *Object*, *Method*, dan *Inheritance*.
+- [x] **Exam Preparation:** Persiapan mental dan pemantapan materi untuk menghadapi ujian akhir modul OOP esok hari.
+> *Refleksi: Menyelesaikan fase belajar OOP dengan mengulas kembali rangkuman materi. Mengingat kembali bagaimana Class, Object, dan Inheritance saling terhubung membuat pemahaman saya semakin solid dan siap menghadapi ujian besok!*
+
+### **Minggu, 1 Maret 2026 (Day 23)**
+**Topic: Object-Oriented Programming (Hands-on Practice)**
+- [x] **Hands-on Coding:** Mengubah pemahaman teoritis OOP menjadi baris kode yang fungsional dan terstruktur.
+- [x] **Problem Solving:** Menyelesaikan tantangan logika pada Kuis Coding: Object-oriented Programming.
+> *Refleksi: Praktik adalah ujian sebenarnya dari teori. Mengimplementasikan OOP ke dalam kode secara langsung memastikan fondasi arsitektur sistem saya benar-benar solid.*
 
 ### **Sabtu, 28 Februari 2026 (Day 22)**
 **Topic: Object-Oriented Programming (Inheritance)**
