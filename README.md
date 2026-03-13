@@ -1,7 +1,7 @@
 # 🚀 My Coding Camp Journey @ Coding Camp 2026 by DBS Foundation
 
 **Name:** Sultan Abdul Fatah   
-**Period:** Feb 7, 2026 - Mar 4, 2026
+**Period:** Feb 7, 2026 - Mar 13, 2026
 
 ---
 
@@ -14,11 +14,76 @@
 | **Belajar Dasar Git dengan GitHub** | ✅ Done | Feb 16, 2026 |
 | **Belajar Dasar Data Science** | ✅ Done | Feb 18, 2026 |
 | **Belajar Dasar Visualisasi Data** | ✅ Done | Feb 20, 2026 |
-| **Memulai Pemrograman dengan Python** | 🔜 Next | - |
+| **Memulai Pemrograman dengan Python** | ✅ Done | Mar 13, 2026 |
 
 ---
 
 ## 📅 Daily Log & Milestones
+
+### **Jumat, 13 Maret 2026 (Day 35)**
+**Topic: Python Programming Final Exam & Graduation**
+- [x] **FINAL EXAM:** Menaklukkan ujian akhir komprehensif yang menguji logika algoritma, OOP, dan pemahaman *library*.
+- [x] **GRADUATED:** Menyelesaikan seluruh modul dan resmi lulus dari kelas Memulai Pemrograman dengan Python! 🎓
+  🏆 [Sertifikat Kelulusan](https://www.dicoding.com/certificates/ERZRLGYR2ZYV)
+> *Refleksi: Gelar kelulusan ini adalah tiket masuk saya menuju ekosistem Data Science. Fondasi teknis Python yang solid sudah di tangan, siap untuk dieksekusi ke dalam proyek analisis dan Machine Learning dunia nyata.*
+
+### **Kamis, 12 Maret 2026 (Day 34)**
+**Topic: ML, Web Dev Libraries & Python Ecosystem**
+- [x] **Library Machine Learning:** Mendalami *tools* utama Python untuk merancang dan melatih model kecerdasan buatan.
+- [x] **Library Web Development:** Berkenalan dengan *framework* Python (seperti Flask/Django) untuk men-*deploy* aplikasi dan model ke internet.
+- [x] **Eksplorasi Ekosistem:** Mengulas rangkuman *library* populer yang menjadi standar industri dalam pengembangan perangkat lunak dan Data Science.
+- [x] **Quiz:** Lulus Kuis Library Populer pada Python.
+> *Refleksi: Kombinasi Machine Learning dan Web Development adalah kunci! Model AI yang cerdas harus didukung oleh antarmuka web yang baik agar bisa digunakan oleh audiens luas. Siap untuk Final Exam besok!*
+
+### **Rabu, 11 Maret 2026 (Day 33)**
+**Topic: Data Acquisition & Machine Learning Libraries**
+- [x] **Library File Management:** Menguasai cara mengelola, membaca, dan menulis *file* atau *dataset* secara terprogram.
+- [x] **Library Web Scraping:** Mempelajari teknik ekstraksi data otomatis dari halaman *web* untuk mengumpulkan data mentah secara efisien.
+- [x] **Library Machine Learning:** Berkenalan dengan modul-modul esensial Python untuk membangun, melatih, dan mengevaluasi model kecerdasan buatan.
+> *Refleksi: Alur kerja Data Science mulai terlihat jelas! Dari ngumpulin data pakai web scraping, nyimpen struktur file dengan rapi, sampai siapin pondasi untuk model Machine Learning.*
+
+### **Selasa, 10 Maret 2026 (Day 32)**
+**Topic: Math, Parser & Data Processing Libraries**
+- [x] **Library Matematika:** Menguasai modul bawaan Python untuk melakukan komputasi numerik, aljabar, dan perhitungan matematis tingkat lanjut.
+- [x] **Library Parser:** Mempelajari teknik mengekstrak dan mengurai data dari berbagai format dokumen dan teks secara efisien.
+- [x] **Library Pengolahan Data:** Mengeksplorasi alat fundamental untuk membaca, membersihkan, dan memanipulasi struktur data secara terprogram.
+> *Refleksi: Tiga pilar utama untuk Data Science! Menggabungkan kekuatan komputasi matematika, ketajaman ekstraksi parser, dan keluwesan pengolahan data membuat saya siap menghadapi dataset dunia nyata yang sesungguhnya.*
+
+### **Senin, 9 Maret 2026 (Day 31)**
+**Topic: Text Processing Libraries in Python**
+- [x] **Unstructured Data:** Memahami pentingnya memproses data teks yang tidak terstruktur menjadi format yang dapat dianalisis.
+- [x] **Library Text Processing:** Berkenalan dengan modul dan alat bawaan Python untuk manipulasi *string* tingkat lanjut.
+- [x] **Text Cleansing:** Mempelajari fondasi awal membersihkan data teks sebelum dimasukkan ke dalam model *Machine Learning* atau analisis sentimen.
+> *Refleksi: Teks adalah salah satu bentuk data terbesar di dunia nyata. Menguasai cara memproses dan membersihkannya adalah pintu gerbang menuju Natural Language Processing (NLP) dan analisis data yang lebih mendalam.*
+
+### **Minggu, 8 Maret 2026 (Day 30)**
+**Topic: Unit Testing Review & Assessment**
+- [x] **Review Materi:** Mengulas kembali konsep pengujian otomatis dan penggunaan *library unittest* di Python.
+- [x] **Quiz:** Lulus Kuis Unit Testing untuk memvalidasi pemahaman teknis terkait *test case* dan *assertions*.
+- [x] **1 Month Milestone:** Merayakan 30 hari konsistensi belajar tanpa henti sejak hari pertama *coding camp*! 🎉
+> *Refleksi: Genap satu bulan belajar tanpa henti! Lulus kuis Unit Testing hari ini mengunci pemahaman saya bahwa kode yang profesional adalah kode yang tangguh dan teruji secara otomatis.*
+
+### **Sabtu, 7 Maret 2026 (Day 29)**
+**Topic: Implementing Unit Tests with `unittest`**
+- [x] **Library `unittest`:** Mengimplementasikan pengujian otomatis menggunakan modul bawaan standar dari Python.
+- [x] **Test Cases & Assertions:** Merancang skenario pengujian dan memvalidasi fungsi menggunakan metode *assert* (seperti `assertEqual`, `assertTrue`, dll).
+- [x] **Bug Prevention:** Menerapkan pengujian kode secara terisolasi untuk mendeteksi *error* secara dini sebelum masuk ke tahap produksi.
+> *Refleksi: Menulis tes otomatis dengan `unittest` memastikan setiap fungsi berjalan sesuai ekspektasi. Keahlian ini sangat krusial untuk membangun sistem yang tangguh dan meminimalisir bug di masa depan.*
+
+### **Jumat, 6 Maret 2026 (Day 28)**
+**Topic: Introduction to Unit Testing**
+- [x] **Fundamental Testing:** Berkenalan dengan konsep dasar pengujian perangkat lunak otomatis.
+- [x] **Unit Testing Concept:** Memahami pentingnya menguji komponen kode terkecil (*unit*) secara terisolasi.
+- [x] **Antisipasi Bug:** Mempelajari *mindset* seorang *developer* untuk mencari dan mencegah *error* sebelum kode di-*deploy*.
+> *Refleksi: Menulis tes untuk kode sendiri mengajarkan saya untuk berpikir lebih kritis. Kode yang baik bukan cuma yang rapi, tapi juga yang lolos ujian bug secara otomatis.*
+
+### **Kamis, 5 Maret 2026 (Day 27)**
+**Topic: Advanced Code Formatting & Naming Conventions**
+- [x] **Code Formatting:** Menguasai teknik memformat kode Python tingkat lanjut agar sejalan dengan standar industri.
+- [x] **Compound Statements:** Memahami tata cara penulisan *statement* gabungan yang elegan tanpa mengorbankan tingkat keterbacaan (*readability*).
+- [x] **Naming Conventions:** Mengaplikasikan prinsip penamaan yang konsisten dan bermakna untuk variabel, fungsi, hingga *class*.
+- [x] **Quiz:** Lulus Kuis Style Guide pada Python.
+> *Refleksi: Menulis kode layaknya seorang profesional berarti peduli pada estetika dan keterbacaan. Prinsip penamaan yang baik adalah dokumentasi terbaik bagi sebuah program.*
 
 ### **Rabu, 4 Maret 2026 (Day 26)**
 **Topic: Python Style Guide (PEP8)**
