@@ -15,7 +15,7 @@
 | **Belajar Dasar Data Science** | ✅ Done | Feb 18, 2026 |
 | **Belajar Dasar Visualisasi Data** | ✅ Done | Feb 20, 2026 |
 | **Memulai Pemrograman dengan Python** | ✅ Done | Mar 13, 2026 |
-| Belajar Machine Learning untuk Pemula | ⏳ In Progress | - |
+| **Belajar Machine Learning untuk Pemula** | ⏳ In Progress | - |
 
 ---
 
