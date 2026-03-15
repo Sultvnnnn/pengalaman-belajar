@@ -1,7 +1,7 @@
 # 🚀 My Coding Camp Journey @ Coding Camp 2026 by DBS Foundation
 
 **Name:** Sultan Abdul Fatah   
-**Period:** Feb 7, 2026 - Mar 13, 2026
+**Period:** Feb 7, 2026 - Mar 15, 2026
 
 ---
 
@@ -20,6 +20,18 @@
 ---
 
 ## 📅 Daily Log & Milestones
+
+### **Minggu, 15 Maret 2026 (Day 37)**
+**Topic: Introduction & Core Components of Machine Learning**
+- [x] **Pengantar Machine Learning:** Berkenalan dengan konsep dasar AI dan pergeseran paradigma dari *traditional programming* menuju mesin yang belajar dari pola.
+- [x] **Komponen Utama ML:** Membedah elemen-elemen krusial penyusun sistem ML, mulai dari pengumpulan data, penentuan fitur (*features*), hingga pemilihan algoritma dan pembentukan model.
+> *Refleksi: Hari ini saya belajar bahwa model kecerdasan buatan yang hebat lahir dari harmoni antara kualitas data yang baik dan algoritma yang tepat. Paradigma berpikir saya mulai bergeser dari programmer menjadi seorang data scientist.*
+
+### **Sabtu, 14 Maret 2026 (Day 36)**
+**Topic: Machine Learning Glossary & Terminology**
+- [x] **Glossary Overview:** Membaca dan menelaah glosarium untuk memahami istilah-istilah fundamental dalam Machine Learning.
+- [x] **Terminology Foundation:** Membangun perbendaharaan kata teknis (*jargon*) sebagai persiapan sebelum masuk ke materi algoritma dan pemodelan data.
+> *Refleksi: Pemanasan di akhir pekan! Memahami bahasa dan istilah teknis adalah langkah pertama yang wajib dilakukan sebelum mulai 'berbicara' dengan model kecerdasan buatan.*
 
 ### **Jumat, 13 Maret 2026 (Day 35)**
 **Topic: Python Programming Final Exam & Graduation**
