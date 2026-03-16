@@ -1,7 +1,7 @@
 # 🚀 My Coding Camp Journey @ Coding Camp 2026 by DBS Foundation
 
 **Name:** Sultan Abdul Fatah   
-**Period:** Feb 7, 2026 - Mar 15, 2026
+**Period:** Feb 7, 2026 - Mar 16, 2026
 
 ---
 
@@ -20,6 +20,13 @@
 ---
 
 ## 📅 Daily Log & Milestones
+
+### **Senin, 16 Maret 2026 (Day 38)**
+**Topic: Types of Machine Learning**
+- [x] **Supervised Learning:** Memahami konsep melatih model menggunakan data yang sudah memiliki label atau target (*output* yang jelas).
+- [x] **Unsupervised Learning:** Mengeksplorasi cara mesin menemukan pola tersembunyi atau melakukan *clustering* pada data yang tidak berlabel.
+- [x] **Reinforcement Learning:** Berkenalan dengan sistem agen cerdas yang belajar mengambil keputusan melalui *reward* dan *penalty*.
+> *Refleksi: Setiap masalah data butuh pendekatan yang berbeda. Menguasai jenis-jenis Machine Learning membuat saya tahu persis alat mana yang harus dipakai untuk membangun model AI yang relevan.*
 
 ### **Minggu, 15 Maret 2026 (Day 37)**
 **Topic: Introduction & Core Components of Machine Learning**
